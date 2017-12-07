@@ -1,0 +1,9 @@
+1. VGG16微调
+2，SCDA提取特征 （保留最大连通区域）  +SVM
+3. 根据提特征生成BBox,映射回原图片，微调
+4. SCDA提取特征，三合一SVM
+
+
+
+skip convolution 
+
